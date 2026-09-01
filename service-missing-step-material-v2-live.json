@@ -1,0 +1,19 @@
+{
+  "issuer": "Fictional Independent Inspection Lab",
+  "service_ref": "XR12-SVC-2026-007",
+  "performed_at": 1788257000,
+  "model": "XR-12",
+  "serial_commitment": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "procedure_id": "XR12-ANNUAL-SAFETY",
+  "procedure_version": "v1",
+  "completed_steps": [
+    "emergency_stop functional test",
+    "servo brake inspection",
+    "safety interlock verification",
+    "open issue declaration"
+  ],
+  "open_issues": [
+    "axis calibration confirmation was not performed; inspection is required before service can be current"
+  ],
+  "result": "INSPECTION_REQUIRED"
+}
